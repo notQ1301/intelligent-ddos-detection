@@ -1,0 +1,5 @@
+dataset.csv
+cnn_ddos_model.tflite
+*.log
+__pycache__/
+Report.docx
